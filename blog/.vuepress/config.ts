@@ -5,6 +5,7 @@ import { gungnirTheme } from "vuepress-theme-gungnir";
 export default defineUserConfig({
   title: "khanhnguyen@dev",
   description: "Blog",
+  base: '/vuepress-blog-gungnir/',
 
   head: [
     [
