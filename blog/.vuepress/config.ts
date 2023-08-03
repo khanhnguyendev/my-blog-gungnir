@@ -69,6 +69,10 @@ export default defineUserConfig({
         path: "/img/home-bg/1.jpg",
         mask: "rgba(40, 57, 101, .4)"
       },
+      {
+        path: "/img/home-bg/2.jpg",
+        mask: "rgba(40, 57, 101, .4)"
+      },
     ],
 
     navbar: [
