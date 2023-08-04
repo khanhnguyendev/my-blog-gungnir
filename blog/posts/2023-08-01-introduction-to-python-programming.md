@@ -6,7 +6,7 @@ author: CodeWizard
 date: 2023-08-01
 useHeaderImage: true
 headerImage: /img/in-post/2023-08-01/introduction-to-python-programming.png
-headerMask: rgba(255, 165, 0, .3)
+headerMask: rgba(40, 57, 101, .9)
 permalinkPattern: /post/:year/:month/:day/:slug/
 tags:
   - Python
